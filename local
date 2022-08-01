@@ -1,0 +1,38 @@
+#EXTINF:-1,DZBB 594KHZ SUPER RADYO
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:-1,DZRH
+http://ky-iptv.com:80/live/Peaches1/Peaches1/1806769.ts
+#EXTINF:-1,SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1,BEAM TV 1
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:-1,LIFE TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+#EXTINF:-1,CNN PH
+https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
+#EXTINF:-1,Cine Mo!
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/1280x720_2891636/index.m3u8
+#EXTINF:-1,Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+#EXTINF:-1,Celestial Movies Pinoy
+https://tiny.one/celestialpinoy
+#EXTINF:-1,One PH
+https://rotf.lol/oneph
+#EXTINF:-1,Kapatid 5
+http://skylogic.site:8080/live/ce1eb8b3/fd28c06f6f/171991.ts
+#EXTINF:-1,Sari Sari Channel
+http://ky-iptv.com:80/live/theruler/theruler/1806811.ts
+#EXTINF:-1,Net25
+http://ky-iptv.com:80/live/Peaches1/Peaches1/1806799.ts
+#EXTINF:-1,ANC HD
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,TFC
+https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
+#EXTINF:-1,Teleradyo Global
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/1280x720_2892285/index.m3u8
+#EXTINF:-1,PTV
+https://rotf.lol/ptv04
+#EXTINF:-1,GMA Life TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=33270&extension=ts&play_token=wY4LMv3TMk
+#EXTINF:-1,GMA Pinoy TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=33269&extension=ts&play_token=o99Hf0NZEo
